@@ -2,4 +2,5 @@ header h1{
     color: aqua;
     background-color: rgb(166, 76, 250);
     font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
 }
